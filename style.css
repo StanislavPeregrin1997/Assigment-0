@@ -1,0 +1,29 @@
+body{
+    height: 100vh;
+}
+nav {
+    width: 100%;
+    background-color: orange;
+    height: 25vh;
+    margin-top: 37.5vh;
+}
+ul {
+    background-color: pink;
+    margin-left: 15%;
+    margin-right: 15%;
+    height: 25vh;
+}
+li {
+    background-color: blue;
+    width: 24%;
+    display: inline-block;
+    list-style: none;
+    text-align: center;
+}
+
+a:link {
+    color: white;
+}
+a:visited {
+    color: white;
+}
